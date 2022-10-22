@@ -1,10 +1,10 @@
 #Anticheat System
-anticheat_prefix: '§6§lLiteDays §8§l» §f'
+anticheat_prefix: '§6§lWAC §8§l» §f'
 
 # команды
-test_ka_player_command: '/testkillaura <игрок>'
+test_ka_player_command: '/whitejqcommandtestanticheat234923jf <игрок>'
 test_ka_player_successfully: '$anticheat_prefix$§aВы успешно отправили слежку за игроком %player%'
-test_ka_player_error: '$anticheat_prefix$§cСлежка за игроком отклонена системой!'
+test_ka_player_error: '$anticheat_prefix$§cСлежка за игроком отклонена системой!' # Если данное сообщение появилось, это означает, что игрок уже заблокирован.
 test_ka_player_banned: '$anticheat_prefix$§fИгрок за которым вы недавно направили слежку (%player%) §fбыл §cзаблокирован!'
 
 # сообщения
@@ -13,6 +13,8 @@ player_message_banned:
  - '§fВаш аккаунт был §cвременно заблокирован §fза использование запрещённого ПО,'
  - '§fв случае повторного нарушения, ваш аккаунт будет заблокирован §cнавсегда!'
  - ''
- - '§fБлокировка истекает: %punishments_time%' # как-нибудь думаю будет готово, а пока..
+ - '§fБлокировка истекает: %punishments_time%' # вроде работает
  - ''
  - '§fВсего заблокировано игроков: %punishments_banned%'
+
+explanations_message: '§6§lWAC §8§l» §cЧтобы анти-чит заблокировал нарушителя, ему достаточно ударить его 3 раза.'
