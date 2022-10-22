@@ -1,0 +1,12 @@
+hub_welcome_message_title: '§6§lLiteDays'
+hub_welcome_message_sub: '§fДобро пожаловать на сервер!'
+lobby_marry_christmas: '§fСобирайте подарки в лобби, и получайте за них нагдары!'
+lobby_marry_christmas_golds: '§aВы подобрали подарок, и получили за это: 500 золота'
+lobby_marry_christmas_already: '§cОшибка! §fВы уже подбирали данный подарок'
+lobby_marry_christmas_error: '§cОшибка! §fНовый год ещё не наступил, подарки будут доступны 1 января 2023 в 0:00 МСК'
+lobby_marry_hologram:
+ - ''
+ - '§fАкция с подарками продилтся до:'
+ - '§c6 января 0:00 по МСК, успей получить подарки!'
+ - ''
+ - '§ewww.litedays.net'
