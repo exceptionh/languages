@@ -4,9 +4,10 @@ anticheat_prefix: '§6§lWAC §8§l» §f'
 # команды
 test_ka_player_command: '/whitejqcommandtestanticheat234923jf <игрок>'
 get_log_command: '/dump <кол-во дней>' # получить ссылку на лог про игрока
-test_ka_player_successfully: '$anticheat_prefix$§aВы успешно отправили слежку за игроком %player%'
-test_ka_player_error: '$anticheat_prefix$§cСлежка за игроком отклонена системой!' # Если данное сообщение появилось, это означает, что игрок уже заблокирован.
-test_ka_player_banned: '$anticheat_prefix$§fИгрок за которым вы недавно направили слежку (%player%) §fбыл §cзаблокирован!'
+test_ka_player_successfully: '§6§lWAC §8§l» §aВы успешно отправили слежку за игроком %player%'
+test_ka_player_error: '§6§lWAC §8§l» §cСлежка за игроком отклонена системой!' # Если данное сообщение появилось, это означает, что игрок уже заблокирован.
+test_ka_player_banned: '§6§lWAC §8§l» §fИгрок за которым вы недавно направили слежку (%player%) §fбыл §cзаблокирован!'
+test_ka_no_cheating: '§6§lWAC §8§l» §fИгрок оказался чистым, проверка прошла успешно!'
 
 # игрок может бегать по всем лобби, но играть в мини-режимы его не пустит.
 player_message_banned:
