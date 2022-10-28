@@ -19,3 +19,10 @@ skywars_prefix: '§f[§cSkyWars§f] §f'
 # для будущего
 V_1_12_2: '§cОшибка! §fНа данный момент это работает лишь с версии 1.12!'
 now_avaible_versions: '§cОшибка! §fСервер доступен от версии %v% до версии %v_latest%'
+
+# лобби
+player_join_msg: '%player% §b>§c>§a> §6зашёл на сервер §a<§c<§b<'
+
+# кор
+connected_to_system: '%player% §fприсоединился к кору'
+disconnected_system: '%player% §fотключился от кора'
