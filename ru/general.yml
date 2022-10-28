@@ -15,3 +15,7 @@ lobby_marry_hologram:
 # commands prefixes
 main_prefix: '§f[§cLiteDays§f] §f'
 skywars_prefix: '§f[§cSkyWars§f] §f'
+
+# для будущего
+V_1_12_2: '§cОшибка! §fНа данный момент это работает лишь с версии 1.12!'
+now_avaible_versions: '§cОшибка! §fСервер доступен от версии %v% до версии %v_latest%'
