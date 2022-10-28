@@ -11,3 +11,7 @@ lobby_marry_hologram:
  - '§fОсталось: §c%time_left%'
  - ''
  - '§ewww.litedays.net'
+
+# commands prefixes
+main_prefix: '§f[§cLiteDays§f] §f'
+skywars_prefix: '§f[§cSkyWars§f] §f'
